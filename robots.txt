@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /espace.html
+Disallow: /merci.html
+Sitemap: https://www.olsleeptech.fr/sitemap.xml
